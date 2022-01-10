@@ -4,6 +4,8 @@
 <!--
 **bakr-youssri/bakr-youssri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/etchfoda/count.svg" alt ="Loading">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
