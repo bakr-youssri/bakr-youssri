@@ -25,7 +25,7 @@
 - 🚀 **[All Academy](https://github.com/)** - An online educational platform, wraps up several modules.
 - 🚀 **[CvMe](https://github.com/)** - System for managing a professional identity. Build and engage with a professional network. Access knowledge and job opportunities.
 - 🚀 **[Amack](https://github.com/)** - System for managing diving centers and booking diving trips that are most suitable for the price and location by divers.
-- 🚀 **[Helpme](https://github.com/)** - Education and rehabilitation system of disabled children for Kuwaiti ministry of education, supporting 1000+ disabled children.
+- 🚀 **[Helpme](https://github.com/)** - Education and rehabilitation system of disabled children for Kuwaiti ministry of education.
 - 🚀 **[Aliforas](https://github.com/)** - E-commerce system wraps up several modules such as: Admin-panel, Seller-panel, and Website.
 - 🚀 **[School-Management System](https://github.com/)** - School management system. It support multi-language.
 - 🚀 **[El-Mostafa](https://github.com/)** - A local POS system for a housewares shop.
