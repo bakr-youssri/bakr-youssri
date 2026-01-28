@@ -29,4 +29,5 @@
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/bakr-youssry/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bakr-youssry/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](bakr.youssry@outlook.com)
