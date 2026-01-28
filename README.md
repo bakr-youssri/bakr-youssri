@@ -12,7 +12,7 @@
 
 ## Experience Projects
 
-- 👉 **[Apokrat](https://github.com/)** - A medical platform that provides remote medical consultations and home healthcare
+- 👉 **[Apokrat](https://github.com/)** - A medical platform that provides remote medical consultations and home healthcare.
 - 🚀 **[UFO](https://github.com/)** - A ride-hailing service that connects passengers with drivers for transportation. Wraps up several modules such as: Client-app, Driver-app, and Admin-panal.
 - 🚀 **[Matjer](https://github.com/)** - E-commerce system wraps up several modules such as: Admin-panel, Seller-panel, and Website.
 - 🚀 **[All Academy](https://github.com/)** - An online educational platform, wraps up several modules such as: Admin-panel, Instructor-panel, and student-panel
@@ -26,8 +26,5 @@
 
 ## What I'm Doing
 
-- **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bakr-youssry/)
+- 👨‍💻 Freelance Web Developer working from Cairo, Egypt.
+- 🔭 I’m currently working on deepening my knowledge of programming languages.
