@@ -8,6 +8,7 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
+
 ## Experience Projects
 
 - 👉 **[Apokrat](https://github.com/)** - A medical platform that provides remote medical consultations and home healthcare
@@ -22,12 +23,10 @@
 - 🚀 **[El-Mostafa](https://github.com/)** - A local POS system for a housewares shop.
 - 🚀 **[Power Gym](https://github.com/)** - A local gym management system, streamlining membership tracking and reducing manual administrative tasks by 40%.
 
----
 ## What I'm Doing
 
 - **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
 
----
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/bakr-youssry/)
