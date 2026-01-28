@@ -2,10 +2,10 @@
 
 > Senior Backend Engineer with more than 5 years experience. Seeking a new opportunity with a company that offers a unique work environment within which its staff can thrive.
 
-![PHP](https://img.shields.io/badge/PHP-blue)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
 ---
 
@@ -27,6 +27,6 @@
 
 - **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
 
-## Connect
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/bakr-youssry/)
