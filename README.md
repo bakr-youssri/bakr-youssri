@@ -10,6 +10,11 @@
 
 ---
 
+## About Me
+
+- 👨‍💻 Freelance Web Developer working from Cairo, Egypt.
+- 🔭 I’m currently working on deepening my knowledge of programming languages.
+
 ## Experience Projects
 
 - 👉 **[Apokrat](https://github.com/)** - A medical platform that provides remote medical consultations and home healthcare.
@@ -23,8 +28,3 @@
 - 🚀 **[School-Management System](https://github.com/)** - School management system. It support multi-language.
 - 🚀 **[El-Mostafa](https://github.com/)** - A local POS system for a housewares shop.
 - 🚀 **[Power Gym](https://github.com/)** - A local gym management system, streamlining membership tracking and reducing manual administrative tasks by 40%.
-
-## What I'm Doing
-
-- 👨‍💻 Freelance Web Developer working from Cairo, Egypt.
-- 🔭 I’m currently working on deepening my knowledge of programming languages.
