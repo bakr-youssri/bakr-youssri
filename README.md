@@ -23,7 +23,7 @@
 - 🚀 **[UFO](https://github.com/)** - A ride-hailing service that connects passengers with drivers for transportation.
 - 🚀 **[Matjer](https://github.com/)** - E-commerce system wraps up several modules.
 - 🚀 **[All Academy](https://github.com/)** - An online educational platform, wraps up several modules.
-- 🚀 **[CvMe](https://github.com/)** - System for managing a professional identity. Build and engage with a professional network. Access knowledge and job opportunities.
+- 🚀 **[CvMe](https://github.com/)** - Platform for managing professional identity, building networks, and accessing knowledge and job opportunities.
 - 🚀 **[Amack](https://github.com/)** - System for managing diving centers and booking diving trips that are most suitable for the price and location by divers.
 - 🚀 **[Helpme](https://github.com/)** - Education and rehabilitation system of disabled children for Kuwaiti ministry of education.
 - 🚀 **[Aliforas](https://github.com/)** - E-commerce system wraps up several modules such as: Admin-panel, Seller-panel, and Website.
