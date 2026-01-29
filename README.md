@@ -16,6 +16,7 @@
 ## About Me
 
 - 👨‍💻 Freelance Backend Developer working from Cairo, Egypt.
+- 💡 Strong background in backend architecture, database design, and RESTful APIs.
 - 🔭 I’m currently working on deepening my knowledge of programming languages.
 
 ## Experience Projects
