@@ -21,13 +21,13 @@
 ## Experience Projects
 
 - 👉 **[Apokrat](https://github.com/)** - A medical platform that provides remote medical consultations and home healthcare.
-- 🚀 **[UFO](https://github.com/)** - A ride-hailing service that connects passengers with drivers for transportation.
-- 🚀 **[Matjer](https://github.com/)** - E-commerce system wraps up several modules.
-- 🚀 **[All Academy](https://github.com/)** - An online educational platform, wraps up several modules.
-- 🚀 **[CvMe](https://github.com/)** - Platform for managing professional identity, building networks, and accessing knowledge and job opportunities.
-- 🚀 **[Amack](https://github.com/)** - System for managing diving centers and booking diving trips that are most suitable for the price and location by divers.
-- 🚀 **[Helpme](https://github.com/)** - Education and rehabilitation system of disabled children for Kuwaiti ministry of education.
-- 🚀 **[Aliforas](https://github.com/)** - E-commerce system wraps up several modules such as: Admin-panel, Seller-panel, and Website.
-- 🚀 **[School-Management System](https://github.com/)** - School management system. It support multi-language.
-- 🚀 **[El-Mostafa](https://github.com/)** - A local POS system for a housewares shop.
-- 🚀 **[Power Gym](https://github.com/)** - A local gym management system, streamlining membership tracking and reducing manual administrative tasks.
+- 🚀 **[UFO]** - A ride-hailing service that connects passengers with drivers for transportation.
+- 🚀 **[Matjer]** - E-commerce system wraps up several modules.
+- 🚀 **[All Academy]** - An online educational platform, wraps up several modules.
+- 🚀 **[CvMe]** - Platform for managing professional identity, building networks, and accessing knowledge and job opportunities.
+- 🚀 **[Amack]** - System for managing diving centers and booking diving trips that are most suitable for the price and location by divers.
+- 🚀 **[Helpme]** - Education and rehabilitation system of disabled children for Kuwaiti ministry of education.
+- 🚀 **[Aliforas]** - E-commerce system wraps up several modules such as: Admin-panel, Seller-panel, and Website.
+- 🚀 **[School-Management System]** - School management system. It support multi-language.
+- 🚀 **[El-Mostafa]** - A local POS system for a housewares shop.
+- 🚀 **[Power Gym]** - A local gym management system, streamlining membership tracking and reducing manual administrative tasks.
