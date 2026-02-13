@@ -1,6 +1,6 @@
 # Hi, I'm Bakr Youssry 👋
 
-> Senior Backend Engineer with more than 5 years experience. Seeking a new opportunity with a company that offers a unique work environment within which its staff can thrive.
+> **Senior Backend Engineer** with 5+ years of experience specializing in **Laravel & PHP**, building scalable, secure, and maintainable backend systems and APIs. I focus on clean architecture, performance optimization, and delivering production-ready solutions.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -26,9 +26,12 @@
 - 🚀 **Matjer** - E-commerce system wraps up several modules.
 - 🚀 **All Academy** - An online educational platform, wraps up several modules.
 - 🚀 **CvMe** - Platform for managing professional identity, building networks, and accessing knowledge and job opportunities.
-- 🚀 **Amack** - System for managing diving centers and booking diving trips that are most suitable for the price and location by divers.
+- 🚀 **Amack** - System for managing diving centers and matching divers with the best trips by price and location.
 - 🚀 **Helpme** - Education and rehabilitation system of disabled children for Kuwaiti ministry of education.
 - 🚀 **Aliforas** - E-commerce system wraps up several modules such as: Admin-panel, Seller-panel, and Website.
 - 🚀 **School-Management System** - School management system. It support multi-language.
 - 🚀 **El-Mostafa** - A local POS system for a housewares shop.
 - 🚀 **Power Gym** - A local gym management system, streamlining membership tracking and reducing manual administrative tasks.
+
+## 📫 Connect with Me
+- Email: [bakr.youssry@outlook.com]  
