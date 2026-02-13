@@ -32,6 +32,3 @@
 - 🚀 **School-Management System** - School management system. It support multi-language.
 - 🚀 **El-Mostafa** - A local POS system for a housewares shop.
 - 🚀 **Power Gym** - A local gym management system, streamlining membership tracking and reducing manual administrative tasks.
-
-## Connect with Me
-- Email: [bakr.youssry@outlook.com]  
